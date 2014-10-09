@@ -4,7 +4,7 @@
 ## from the cache if needed again.
 
 ## the first function makeCacheMatrix matrix takes a 
-## 2x2 matrix and creates a special object that stores 
+## matrix and creates a special object that stores 
 ## its value and a cache for its inverse
 
 makeCacheMatrix <- function(x = matrix()) {
